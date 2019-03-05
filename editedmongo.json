@@ -1,0 +1,129 @@
+[
+{
+ "_id" : ObjectId("59d0b77117ee2c9c"),
+
+        "userName": "Snowflake",
+        "userId": 4,
+        "userCountry" : "United Kingdom",
+        "pagePosts" : [
+{
+        "myAlbums": [
+   {
+        "title": "Camping with the wildlings",
+        "createdOn": 02/11/2017,
+        "description": { "text": "This is my very first album on Friendspost. I went camping with the wildlings in winters."} ,
+        "numberOfPhotos" : 300,
+        "nmberOfVideos" : 15,
+        "likes" : 335,
+        "comments" : 50,
+      },
+{
+        "title": "Battle of Castle Black",
+        "createdOn": 09/21/2017,
+        "description": { "text": "I am posting my second album on Friendspost which is about my battle at the wall."} ,
+        "numberOfPhotos" : 1000,
+        "nmberOfVideos" : 45,
+        "likes" : 905,
+        "comments" : 90,
+      }
+   ]
+},
+{
+      "articlesPosted" : [
+  {
+      "articleName" : "Winters in the North",
+      "articleLength" : "20pages"
+       "likes" : 505,
+       "comments" : 200,
+      },
+  {
+      "articleName" : "The myth that is the Whitewalkers",
+      "articleLength" : "10pages",
+       "likes" : 200,
+       "comments" : 120
+      }
+    ]
+
+},
+
+{
+ "_id" : ObjectId("89d0b89117ee2c5g"),
+
+        "userName": "Lady Sansa",
+        "userId": 2,
+        "userCountry" : "United Kingdom",
+        "pagePosts" : [
+       
+     
+  {
+      "articleName" : "Life in Winterfell",
+      "articleLength" : "100pages"
+       "likes" : 150,
+       "comments" : 97,
+      },
+  {
+      "articleName" : "Journey to Kingslanding",
+      "articleLength" : "1000pages",
+       "likes" : 90,
+       "comments" : 12
+      },
+  {
+      "articleName" : "When I became Queen in the North",
+      "articleLength" : "60pages",
+       "likes" : 123,
+       "comments" : 12
+      }
+   ]
+  },
+{      
+      "urlPosted" : [
+   {    
+        "urlName" : "old songs",
+       "urlsource": "soundcloud.com"
+   },
+  {
+       "urlName" : "best movies of 2017",
+       "urlsource": "youtube.com"
+   }
+  ]
+  }
+ ]
+},
+
+{
+  "_id" : ObjectId("45d0b89667ee1j3g"),
+
+        "userName":"Denny T",
+        "userId":5,
+        "userCountry" : "Syria",
+        "pagePosts" : [
+{
+         "myAlbums": 
+   {
+        "title": "My reign as Khaleesi",
+        "createdOn": 03/23/2016,
+        "description": { "text": "My is my first album on Friendspost is about my rule as the Queen of the Dothraaki."} ,
+        "numberOfPhotos" : 2000,
+        "nmberOfVideos" : 505,
+        "likes" : 4575,
+        "comments" : 980,
+      }
+},
+
+    {
+       "videosUploaded" : [
+  {
+       "videoName" : "My wedding to Khal Drogo",
+     "videoLength" : "1 hour"
+   },
+  {
+      "videoName" : "My Dragons",
+     "videoLength" : "2 hours"
+   }
+  ]
+ }
+]
+
+
+{
+  "_id" : ObjectId("54d0b76897ke1g3j"),"userName":"Queen Cersie","userId":7,"userCountry" : "USA","pagePosts" : [{ "myAlbums": {"title": "My home- Kingslanding","createdOn": 05/13/2017,"description": { "text": "A glipmspe of my palace"} ,"numberOfPhotos" : 600,"nmberOfVideos" : 85,"likes" : 175,"comments" : 80, },{"articleName" : "A Queen's life","articleLength" : "700pages","likes" : 200,"comments" : 112}}]}
